@@ -1,21 +1,7 @@
 # Frontend Deployment on Kubernetes
 
-This deployment runs the Frontend service of the Roboshop application.
-
-The deployment consists of:
-
-- ConfigMap
-- Deployment
-- Service
-- TargetGroupBinding
-
-The frontend uses Nginx to serve static content and route API requests to backend services.
-
----
-
 # Complete Manifest
 
-```yaml
 # --------------------------------------------------
 # CONFIGMAP
 # Stores Nginx configuration
@@ -240,38 +226,3 @@ spec:
 
   # Register Pod IPs directly
   targetType: ip
-```
-
----
-
-# Architecture Overview
-
-```text
-Users
-   │
-   ▼
-AWS ALB
-   │
-   ▼
-Target Group
-   │
-   ▼
-TargetGroupBinding
-   │
-   ▼
-Frontend Service
-   │
-   ▼
-Frontend Pod
-   │
-   ▼
-Nginx
-   │
-   ├── Catalogue
-   ├── User
-   ├── Cart
-   ├── Shipping
-   └── Payment
-```
-
-...
