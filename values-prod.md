@@ -1,4 +1,3 @@
-````markdown id="helm-values-prod-01"
 # Production Values File (values-prod.yaml)
 
 This file contains production-specific configuration values for the application.
