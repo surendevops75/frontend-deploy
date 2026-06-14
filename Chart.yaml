@@ -1,6 +1,5 @@
 # Complete Manifest
 
-```yaml
 apiVersion: v2
 
 # Helm chart name
@@ -14,6 +13,3 @@ description: frontend installation
 
 # Application version
 appVersion: v1
-```
-
----
