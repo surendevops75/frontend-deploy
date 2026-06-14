@@ -1,0 +1,19 @@
+# Complete Manifest
+
+```yaml
+apiVersion: v2
+
+# Helm chart name
+name: frontend
+
+# Helm chart version
+version: 1.0.0
+
+# Chart description
+description: frontend installation
+
+# Application version
+appVersion: v1
+```
+
+---
