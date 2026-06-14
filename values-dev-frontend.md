@@ -1,4 +1,3 @@
-````markdown id="helm-values-tgb-01"
 # AWS Target Group Binding Configuration
 
 This Helm values file contains the AWS Target Group ARN used by the Kubernetes TargetGroupBinding resource.
