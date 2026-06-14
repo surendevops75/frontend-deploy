@@ -1,4 +1,3 @@
-````markdown
 # Helm Chart Metadata (Chart.yaml)
 
 This file is the metadata definition for a Helm chart.
