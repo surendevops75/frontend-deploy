@@ -1,0 +1,14 @@
+```yaml
+deployment:
+
+  # Docker image repository
+  imageRepo: 160885265516.dkr.ecr.us-east-1.amazonaws.com/roboshop/frontend
+
+  # Docker image tag/version
+  imageVersion: IMAGE_VERSION
+
+service:
+
+  # Kubernetes Service Port
+  servicePort: 80
+```
