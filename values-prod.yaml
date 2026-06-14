@@ -1,4 +1,3 @@
-```yaml
 configMap:
 
   # Cart service endpoint
@@ -6,4 +5,3 @@ configMap:
 
   # Database service hostname
   DB_HOST: "mysql"
-```
