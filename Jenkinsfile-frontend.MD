@@ -1,5 +1,4 @@
-````markdown id="jenkins-eksdeploy-01"
-# Jenkins Shared Library Deployment Pipeline
+ #Jenkins Shared Library Deployment Pipeline
 
 This Jenkins Pipeline demonstrates how to deploy applications to Kubernetes/EKS using a Jenkins Shared Library.
 
@@ -13,7 +12,7 @@ This approach allows multiple applications to reuse the same deployment process 
 
 ---
 
-# Complete Jenkinsfile
+# CompleteJenkinsfile
 
 ```groovy
 // --------------------------------------------------
