@@ -1,4 +1,3 @@
-```yaml
 deployment:
 
   # Docker image repository
@@ -11,4 +10,3 @@ service:
 
   # Kubernetes Service Port
   servicePort: 80
-```
