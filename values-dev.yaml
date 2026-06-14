@@ -1,8 +1,6 @@
 # Complete Configuration
 
-```yaml
 tgb:
 
   # AWS Target Group ARN
   arn: arn:aws:elasticloadbalancing:us-east-1:160885265516:targetgroup/roboshop-dev-frontend/a9ce21d069282d84
-```
