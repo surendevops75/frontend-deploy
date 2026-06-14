@@ -1,0 +1,9 @@
+```yaml
+configMap:
+
+  # Cart service endpoint
+  CART_ENDPOINT: "cart:8080"
+
+  # Database service hostname
+  DB_HOST: "mysql"
+```
