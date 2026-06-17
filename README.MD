@@ -13,7 +13,7 @@ The project demonstrates how frontend applications can be deployed consistently 
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ Architecture Details
 
 ```text
 Developer
