@@ -9,7 +9,7 @@
 
 This repository contains deployment configurations for the RoboShop Frontend service using Helm Charts, Kubernetes, and Jenkins CI/CD pipelines.
 
-The project demonstrates how frontend applications can be deployed consistently across multiple environments using Infrastructure as Code and automated deployment workflows.....
+The project demonstrates how frontend applications can be deployed consistently across multiple environments using Infrastructure as Code and automated deployment workflows.
 
 ---
 
